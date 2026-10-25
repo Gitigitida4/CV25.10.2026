@@ -3,5 +3,5 @@ document.getElementById("valokuvaus").addEventListener("click", function() {
 });
 
 document.getElementById("cv").addEventListener("click", function() {
-    window.location.href = "CV_HTML.html";
+    window.location.href = "index.html";
 });
